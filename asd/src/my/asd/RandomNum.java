@@ -13,7 +13,7 @@ public class RandomNum {
 		num = rand.nextInt(100);
 		
 		
-		System.out.println("³­¼ö"+ num);
+		System.out.println("·£´ý¼ö"+ num);
 
 	}
 
