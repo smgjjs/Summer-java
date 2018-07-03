@@ -17,7 +17,7 @@ public class Haptest {
 				b += i; 
 			}
 		}
-		System.out.println("Â¦¼ö ÇÕ : " + a); 
-		System.out.println("È¦¼ö ÇÕ : " + b); 
+		System.out.println("Ã‚Â¦Â¼Ã¶ Ã‡Ã• : " + a); 
+		System.out.println("ÃˆÂ¦Â¼Ã¶ Ã‡Ã• : " + b); 
 	}
 }
