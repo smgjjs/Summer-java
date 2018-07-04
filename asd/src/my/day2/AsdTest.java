@@ -9,17 +9,17 @@ public class AsdTest {
 		
 		int a, resul;
 		
-		System.out.println("¼ıÀÚÀÔ·Â:");
+		System.out.println("ìˆ«ìì…ë ¥:");
 		Scanner scan = new Scanner(System.in);
 		a=scan.nextInt();
 		resul = a%2;
 		
 		switch(resul) {
 		case 0:
-			System.out.println("³ª¸ÓÁö´Â Â¦¼öÀÔ´Ï´Ù");
+			System.out.println("ë‚˜ë¨¸ì§€ëŠ” ì§ìˆ˜ì…ë‹ˆë‹¤");
 			break;
 		case 1:
-			System.out.println("³ª¸ÓÁö´Â È¦¼öÀÔ´Ï´Ù");
+			System.out.println("ë‚˜ë¨¸ì§€ëŠ” í™€ìˆ˜ì…ë‹ˆë‹¤");
 			break;
 		default:
 			break;

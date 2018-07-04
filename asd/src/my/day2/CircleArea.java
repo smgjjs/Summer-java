@@ -10,11 +10,11 @@ public class CircleArea {
 		double radius;
 		double area;
 		
-		System.out.println("¹İÁö¸§À» ÀûÀ¸½Ã¿À");
+		System.out.println("ë°˜ì§€ë¦„ì„ ì ìœ¼ì‹œì˜¤");
 		Scanner scan = new Scanner(System.in);
 		radius = scan.nextDouble();
 		area =radius*radius*3.14;
-		System.out.println("¿øÁö ¸éÀûÀº"+ area);
+		System.out.println("ì›ì§€ ë©´ì ì€"+ area);
 
 	}
 

@@ -8,13 +8,13 @@ public class Text {
 		// TODO Auto-generated method stub
 
 		Scanner scan = new Scanner(System.in);
-		System.out.println("ÇĞ¹øÀ» ÀÔ·ÂÇÏ¼¼¿ä");
+		System.out.println("í•™ë²ˆì„ ì…ë ¥í•˜ì„¸ìš”");
 		int num1 =scan.nextInt();
-		System.out.println("ÀÌ¸§À» ÀÔ·ÂÇÏ¼¼¿ä");
+		System.out.println("ì´ë¦„ì„ ì…ë ¥í•˜ì„¸ìš”");
 		String  name =scan.next();
 		
-		System.out.println("ÇĞ¹øÀº" + num1);
-		System.out.println("ÀÌ¸§Àº " + name);
+		System.out.println("í•™ë²ˆì€" + num1);
+		System.out.println("ì´ë¦„ì€ " + name);
 
 		
 	}
