@@ -1,4 +1,4 @@
-package my.asd;
+package my.day3;
 
 import java.util.Random;
 import java.util.Scanner;

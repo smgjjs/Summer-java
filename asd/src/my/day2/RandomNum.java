@@ -1,4 +1,4 @@
-package my.asd;
+package my.day2;
 
 import java.util.Random;
 
